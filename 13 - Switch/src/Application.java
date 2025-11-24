@@ -13,6 +13,7 @@ public class Application {
         switch (text) {
         case "start":
             System.out.println("Machine started!");
+            System.out.println("Machine d!");
             break;
  
         case "stop":
